@@ -20,7 +20,7 @@ st.sidebar.button ('Gráficos')
 st.sidebar.button ('3D')
 
 #datos
-df = pd.read_csv(r'/Users/n.arcos89/Documents/GitHub/Estudio_Titanic/Data/titanic_final.csv')
+df = pd.read_csv('/Users/n.arcos89/Documents/GitHub/Estudio_Titanic/Data/titanic_final.csv')
 
 #funciones utiles y gráficos
 #gráfico de barras
